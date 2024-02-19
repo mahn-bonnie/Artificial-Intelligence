@@ -1,5 +1,7 @@
 # Artificial Intelligence
 
+ - Link to run the codes have been provided within the code itself [open in colab]
+
 # Lab 1 to Lab 11 Defines AI
 
  - It's the development of computer systems that can perform tasks that typically require human intelligence.
